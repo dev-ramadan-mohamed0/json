@@ -1,0 +1,43 @@
+[
+    {
+        "img": "img/bike-1.jpeg",
+        "prodactName": "otive pro 29",
+        "price": 60,
+        "invintory": 4,
+        "code": "c-34" 
+    },
+        {
+        "img": "img/bike-2.jpeg",
+        "prodactName": "otive pro 29",
+        "price": 60,
+        "invintory": 4,
+        "code": "c-34" 
+    },
+    {
+        "img": "img/bike-3.jpeg",
+        "prodactName": "otive pro 29",
+        "price": 60,
+        "invintory": 4,
+        "code": "c-34" 
+    },
+    {
+        "img": "img/guitar-1.png",
+        "prodactName": "otive pro 29",
+        "price": 60,
+        "invintory": 4,
+        "code": "c-34" 
+    },        {
+        "img": "img/guitar-2.png",
+        "prodactName": "otive pro 29",
+        "price": 60,
+        "invintory": 4,
+        "code": "c-34" 
+    },
+    {
+        "img": "img/guitar-3.png",
+        "prodactName": "otive pro 29",
+        "price": 60,
+        "invintory": 4,
+        "code": "c-34" 
+    }
+]
